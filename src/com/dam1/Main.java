@@ -7,5 +7,6 @@ public class Main {
         //Hago un cambio en el código para hacer el commit B
         //Creo un print para hacer el Commit E
         System.out.println("Esta rama es la principal");
+        System.out.println("Ya está hecho el merge entre ramas");
     }
 }
